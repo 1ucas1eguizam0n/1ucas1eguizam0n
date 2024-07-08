@@ -44,5 +44,5 @@ Soy **Ingeniero Industrial** y **Científico de Datos**, graduado de la **Univer
 </details>
 
 ## :mailbox_with_mail: Contacto
-- Gmail: [Lucas Leguizamon](lucasleguizamon2019@gmail.com) :envelope: .
-- LinkedIn: [Lucas Leguizamon](www.linkedin.com/in/lucas-leguizamón-4a0437283) 	:briefcase:.
+- :envelope:Gmail: [Lucas Leguizamon](lucasleguizamon2019@gmail.com).
+- :briefcase:LinkedIn: [Lucas Leguizamon](www.linkedin.com/in/lucas-leguizamón-4a0437283).
